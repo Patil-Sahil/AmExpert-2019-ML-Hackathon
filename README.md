@@ -124,7 +124,8 @@ To summarise the entire process:
  
 ### Evaluation Metric
 Submissions are evaluated on area under the ROC curve between the predicted probability and the observed target.
- 
+
+### Kaggle kernel --> https://www.kaggle.com/sahilpatil/amexpert-ml-hackathon
 
 ### Public and Private Split
 * Test data is further randomly divided into Public (40%) and Private data (60%)
